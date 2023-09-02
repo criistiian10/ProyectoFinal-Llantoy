@@ -1,0 +1,22 @@
+body {
+    background-image: url(./imagenes/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.supermercadoestilo {
+    background-color: white;
+    border-radius: 7px;
+    padding: 5px;
+    border: solid 1px rgb(221, 221, 221);
+    text-align: center;
+}
+
+.totalcarrito1 {
+    background-color: white;
+    border-radius: 7px;
+    padding: 5px;
+    width: 20%;
+    border: solid 1px rgb(221, 221, 221);
+    text-align: center;
+}
